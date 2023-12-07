@@ -1,0 +1,1 @@
+#esta tiene un link en el nav que te lleva a  url fuera del sitio. Al convertirla a php se rompe.
