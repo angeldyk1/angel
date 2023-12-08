@@ -90,8 +90,9 @@ div p {
         <span><p>La prueba más complicada es cuando no se intenta nada</p></span>
     </div>
     <div>
-    /* ¿Esto es correcto? */
+    
     <?php
+    /* ¿Esto es correcto? Muevo aquí el comentario, porque tienes que ponerlo dentro de la etiqueta PHP para que funcione*/
     $seo = "Posicionamiento de medios de pago";
     if ($seo =="Posicionmiento orgánico") {
         echo "$seo";
